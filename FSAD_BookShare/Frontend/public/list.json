@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Bhagvad Gita",
+    "title": "Universally Bhagavad-Gita is renowned and truly claimed as the crown jewel of India?s spiritual wisdom.",
+    "price": 400,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/5127WRPgfrL._SY445_SX342_.jpg",
+    "bookOwner": "Bhaktivedanta Swami Prabhupada",
+    "contact": "9384564192",
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "A Critical History of Western Philosophy: (Greek, Medieval and Modern)",
+    "title": "This is the enlarged edition of A Critical History of Modern Philosophy. In this new edition Greek and Medieval Philosophies have been added. ",
+    "price": 300,
+    "category": "Humanities",
+    "image": "https://m.media-amazon.com/images/I/51v3qYQiU6L._SY445_SX342_.jpg",
+    "bookOwner": "Yakub Masih",
+    "contact": "9876543210",
+    "status": "Borrowed"
+  },
+  {
+    "id": 3,
+    "name": "Days at the Morisaki Bookshop",
+    "title": "The International Bestseller for lovers of Before the Coffee Gets Cold: A charming and uplifting story on the healing power of books",
+    "price": 200,
+    "category": "Novels",
+    "image": "https://m.media-amazon.com/images/I/71xxddxprOL._SY466_.jpg",
+    "bookOwner": "Satoshi Yagisawa",
+    "contact": "9876543220",
+    "status": "Available"
+  },
+  {
+    "id": 4,
+    "name": "Cosmos",
+    "title": "An awe-inspiring journey through space and time, exploring the wonders of the universe and our place within it.",
+    "price": 250,
+    "category": "Education / Science",
+    "image": "https://m.media-amazon.com/images/I/31tswEHCsSL._SY445_SX342_.jpg",
+    "bookOwner": "Shelly",
+    "contact": "9876543230",
+    "status": "Borrowed"
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "title": "The first book in the beloved series about a young wizard's adventures at Hogwarts School of Witchcraft and Wizardry.",
+    "price": 110,
+    "category": "Kids",
+    "image": "https://m.media-amazon.com/images/I/51dOacmuzvL._SY445_SX342_.jpg",
+    "bookOwner": "Tom",
+    "contact": "9876543240",
+    "status": "Available"
+  },
+  {
+    "id": 6,
+    "name": "Complete Chronicles Of Narnia",
+    "title": "All seven Chronicles are bound together in this new paperback edition.",
+    "price": 700,
+    "category": "Novels",
+    "image": "https://m.media-amazon.com/images/I/81IsNyKSOmL._SY466_.jpg",
+    "bookOwner": "C. S. Lewis ",
+    "contact": "9876543250",
+    "status": "Borrowed"
+  },
+  {
+    "id": 7,
+    "name": "Collected Short Stories",
+    "title": "A collection of beautifully written short stories that explore the immigrant experience, family dynamics, and cultural identity.",
+    "price": 250,
+    "category": "Short Stories",
+    "image": "https://m.media-amazon.com/images/I/81Dsdt4OQVL._SY466_.jpg",
+    "bookOwner": "Ruskin bond",
+    "contact": "9876543260",
+    "status": "Available"
+  },
+  {
+    "id": 8,
+    "name": "The Power of Habit",
+    "title": "A compelling exploration of the science behind habit formation and how understanding habits can transform our lives.",
+    "price": 300,
+    "category": "Self-help",
+    "image": "https://m.media-amazon.com/images/I/41K-XzBJz2L._SY445_SX342_.jpg",
+    "bookOwner": "Maria",
+    "contact": "9876543270",
+    "status": "Available"
+  },
+  {
+    "id": 9,
+    "name": "The Corporate Life Cycle",
+    "title": "A groundbreaking book that offers valuable insights into building and scaling startups by applying lean principles.",
+    "price": 1500,
+    "category": "Corporate",
+    "image": "https://m.media-amazon.com/images/I/714srbJ40hL._SY466_.jpg",
+    "bookOwner": "Aswath Damodaran",
+    "contact": "9876543280",
+    "status": "Borrowed"
+  },
+  {
+    "id": 10,
+    "name": "Forgotten Foods",
+    "title": "A memoir about one woman's journey of self-discovery through travel, food, and spiritual exploration.",
+    "price": 350,
+    "category": "Food",
+    "image": "https://m.media-amazon.com/images/I/91zb31BcHyL._SY466_.jpg",
+    "bookOwner": "Tarana Husain Khan",
+    "contact": "9876543290",
+    "status": "Available"
+  },
+  {
+    "id": 11,
+    "name": "The Girl with the Dragon Tattoo",
+    "title": "A gripping and intricately plotted thriller featuring journalist Mikael Blomkvist and hacker Lisbeth Salander as they unravel a decades-old mystery.",
+    "price": 230,
+    "category": "Crime & Thriller",
+    "image": "https://m.media-amazon.com/images/I/81YW99XIpJL._SL1500_.jpg",
+    "bookOwner": "John",
+    "contact": "9876543300",
+    "status": "Borrowed"
+  },
+  {
+    "id": 12,
+    "name": "Why I am an Atheist and Other Works",
+    "title": "Bhagat Singh is a name that became synonymous with revolution in India's struggle for independence.",
+    "price": 200,
+    "category": "Politics",
+    "image": "https://m.media-amazon.com/images/I/61MCDl9XbqL._SY466_.jpg",
+    "bookOwner": "Bhagat Singh",
+    "contact": "9876543310",
+    "status": "Available"
+  },
+  {
+    "id": 13,
+    "name": "The Travel Book",
+    "title": "The Travel Book each country features an all-new profile that includes details of when to visit",
+    "price": 2500,
+    "category": "Travel",
+    "image": "https://m.media-amazon.com/images/I/81Hpea62EnL._SY466_.jpg",
+    "bookOwner": "Lonely Planet ",
+    "contact": "9384564192",
+    "status": "Available"
+  },
+  {
+    "id": 14,
+    "name": "The Ramayana - Indian Mythology",
+    "title": "The Ramayana is a timeless epic that holds a cherished place in Indian literature and culture.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71f3Pcr5EaL._SY466_.jpg",
+    "bookOwner": "Kirti Pathak",
+    "contact": "987654330",
+    "status": "Available"
+  },
+  {
+    "id": 15,
+    "name": "The Memoirs of Sherlock Holmes",
+    "title": "The Memoirs of Sherlock Holmes is a collection of captivating detective stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71LtJmAsv-L._SY466_.jpg",
+    "bookOwner": "Arthur Conan Doyle ",
+    "contact": "9876543340",
+    "status": "Borrowed"
+  },
+  {
+    "id": 16,
+    "name": "Wonder",
+    "title": "Explore the heartwarming story of Auggie Pullman, a boy with facial differences",
+    "price": 0,
+    "category": "Novel",
+    "image": "https://m.media-amazon.com/images/I/7195o6gMA9L._SL1500_.jpg",
+    "bookOwner": "Rosy",
+    "contact": "9876543210",
+    "status": "Available"
+  },
+  {
+    "id": 17,
+    "name": "Eye of Shiva : Beyond the Quantum Universe",
+    "title": "Where have I come from? Where will I go when the body perishes?",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71em-gfTIdL._SY466_.jpg",
+    "bookOwner": "Prashant Saxena",
+    "contact": "9876543350",
+    "status": "Available"
+  },
+  {
+    "id": 18,
+    "name": "Cinderella (Disney Princess)",
+    "title": "The most beloved princess movie of all time—Disney's Cinderella",
+    "price": 500,
+    "category": "Novel",
+    "image": "https://m.media-amazon.com/images/I/91BunMktIPL._SY466_.jpg",
+    "bookOwner": "Jasmine Jones",
+    "contact": "9876543301",
+    "status": "Borrowed"
+  },
+  {
+    "id": 19,
+    "name": "The Secret of The Nagas",
+    "title": "Where have I come from? Where will I go when the body perishes?",
+    "price": 200,
+    "category": "Mythology",
+    "image": "https://m.media-amazon.com/images/I/81R5xrntmdL._SY466_.jpg",
+    "bookOwner": "Amish",
+    "contact": "9876553350",
+    "status": "Available"
+  },
+  {
+    "id": 20,
+    "name": "The Golden Road : How Ancient India Transformed the World",
+    "title": "A master storyteller' Sunday Times India is the forgotten heart of the ancient world",
+    "price": 0,
+    "category": "Ancient History",
+    "image": "https://m.media-amazon.com/images/I/81xogn0Q4LL._SY466_.jpg",
+    "bookOwner": "Wlliam Dalrymple",
+    "contact": "9866543350",
+    "status": "Available"
+  }
+]
